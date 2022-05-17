@@ -12,6 +12,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 # R Markdown
 
+I would like an inline equation containing single greek letter: $\lambda$. I would like an inline equation with subscripts: $\lambda_1, \lambda _2 , \dots $. I would like a displayed equation:
+
+$$\lambda_1, \lambda _2 , \dots $$
+
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
 You can embed an R code chunk like this:
